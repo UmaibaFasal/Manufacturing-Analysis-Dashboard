@@ -23,4 +23,4 @@ DAX: KPI calculations, variance measures, insight measures
 ✅ SQL-based data extraction and preparation<br>
 ✅ Multi-source data integration<br>
 # Screenshots
-https://github.com/UmaibaFasal/Manufacturing-Analysis-Dashboard/blob/main/Manufacturing_Analysis_Dashboard_Overview.png
+Manufacturing_Analysis_Dashboard_Overview.png
